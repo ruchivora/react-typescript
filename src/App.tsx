@@ -1,8 +1,8 @@
 import './App.css'
-import Heading from './components/Heading';
-import Section from './components/Section';
-import Counter from './components/Counter';
-import List from './components/List';
+import Heading from './componentsPropTypes/Heading';
+import Section from './componentsPropTypes/Section';
+import Counter from './componentsPropTypes/Counter';
+import List from './componentsPropTypes/List';
 import { useState } from 'react';
 
 function App() {
